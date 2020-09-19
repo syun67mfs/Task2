@@ -30,6 +30,10 @@ h1 {
   padding: 2% 0;
 }
 
+h3 {
+  padding: 1% 0;
+}
+
 p {
   margin: 1% 0;
 }
@@ -61,3 +65,4 @@ table {
 .bbody {
   margin: 3px 0;
 }
+
